@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://ginshiki.com"
+baseURL = "ginshiki.com"
 languageCode = "en-us"
 title = "Ginshikin Rayuwa"
 theme = "liva-hugo"
@@ -48,48 +48,48 @@ disqusShortname = ""
   # main menu
   [[menu.main]]
   name = "Kimiyya da Fasaha"
-  URL = "/categories/kimiyya-da-fasaha/"
+  URL = "./categories/kimiyya-da-fasaha/"
   weight = 1
 
   [[menu.main]]
   name = "Sana'o'i"
-  URL = "/categories/sanaa/"
+  URL = "./categories/sanaa/"
   weight = 2
 
   [[menu.main]]
   name = "Damarmaki"
-  URL = "/categories/damarmaki/"
+  URL = "./categories/damarmaki/"
   weight = 3
 
   [[menu.main]]
   name = "Kiwon Lafiya"
-  URL = "/categories/kiwon-lafiya/"
+  URL = "./categories/kiwon-lafiya/"
   weight = 4
 
   [[menu.main]]
   name = "Tsimi da Tattali"
-  URL = "/categories/tattali/"
+  URL = "./categories/tattali/"
   weight = 5
 
   [[menu.main]]
   name = "Iyali"
-  URL = "/categories/iyali/"
+  URL = "./categories/iyali/"
   weight = 6
 
   # footer menu
   [[menu.footer]]
   name = "Game da Mu"
-  URL = "/game-da-mu/"
+  URL = "./game-da-mu/"
   weight = 1
 
   [[menu.footer]]
   name = "Domin Marubuta"
-  URL = "/marubuta/"
+  URL = "./marubuta/"
   weight = 2
 
   [[menu.footer]]
   name = "Ka'idojin Amfani"
-  URL = "/amfani/"
+  URL = "./amfani/"
   weight = 3
 
 
@@ -101,7 +101,7 @@ home = "Home"
 description = "Ilimi domin ci gaban al'umma"
 author = "admin"
 # Google Analitycs
-googleAnalyticsID = "Your ID"
+googleAnalyticsID = "248857299"
 # Contact Information
 email = "info@ginshiki.com"
 location = "Kano, Nigeria"
