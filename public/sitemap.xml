@@ -53,6 +53,11 @@
   </url>
   
   <url>
+    <loc>https://examplesite.com/categories/kimiyya-da-fasaha/</loc>
+    <lastmod>2020-10-08T06:29:45+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://examplesite.com/blog/sayo-kaya-daga-china/</loc>
     <lastmod>2020-10-08T06:29:45+01:00</lastmod>
   </url>
@@ -83,7 +88,7 @@
   </url>
   
   <url>
-    <loc>https://examplesite.com/categories/kimiyya-da-fasaha/</loc>
+    <loc>https://examplesite.com/categories/sanaa/</loc>
     <lastmod>2020-10-07T12:01:36+01:00</lastmod>
   </url>
   
@@ -104,16 +109,6 @@
   
   <url>
     <loc>https://examplesite.com/blog/</loc>
-    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://examplesite.com/search/</loc>
-    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://examplesite.com/tuntube-mu/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url>
   
