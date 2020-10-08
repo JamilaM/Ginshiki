@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on Ginshikin Rayuwa</title>
+    <link>https://examplesite.com/blog/</link>
+    <description>Recent content in blog on Ginshikin Rayuwa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate><atom:link href="https://examplesite.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shafukan yanar gizo na 10 da ake sanya sabbin guraben aiki a Nijeriya</title>
+      <link>https://examplesite.com/blog/shafukan-guraben-aiki/</link>
+      <pubDate>Thu, 08 Oct 2020 07:11:51 +0100</pubDate>
+      
+      <guid>https://examplesite.com/blog/shafukan-guraben-aiki/</guid>
+      <description>Ina masu neman aiki? Akwai shafukan yanar gizo da dama a Nijeriya inda ake sanya sabbin guraben aiki, kama daga na gwamnati zuwa na kamfanoni har da ma na kungiyoyi masu zaman kansu.</description>
+    </item>
+    
+    <item>
+      <title>Yadda Za ka iya Fara sayo kaya daga China da dan karamin jari – Kashi na 1</title>
+      <link>https://examplesite.com/blog/sayo-kaya-daga-china/</link>
+      <pubDate>Thu, 08 Oct 2020 06:29:45 +0100</pubDate>
+      
+      <guid>https://examplesite.com/blog/sayo-kaya-daga-china/</guid>
+      <description>Ina daga cikin kananan ‘yan kasuwa a Nijeriya da ke sayo kaya daga kasar China a kawo min su har gida.</description>
+    </item>
+    
+    <item>
+      <title>Fa&#39;idoji biyar na karatun ƴa mace ga al&#39;umma</title>
+      <link>https://examplesite.com/blog/ilimin-ya-mace/</link>
+      <pubDate>Thu, 08 Oct 2020 06:21:05 +0100</pubDate>
+      
+      <guid>https://examplesite.com/blog/ilimin-ya-mace/</guid>
+      <description>Ilimantar da ƴa mace yana da matuƙar alfanun da ba kowa ne yake da idon gani ko zuciyar fahimtar ba.</description>
+    </item>
+    
+    <item>
+      <title>Yadda Za Ku Iya Tallata Hajarku Cikin Sauki ta Shafukan Sada Zumunta</title>
+      <link>https://examplesite.com/blog/tallata-haja-intanet/</link>
+      <pubDate>Wed, 07 Oct 2020 12:01:36 +0100</pubDate>
+      
+      <guid>https://examplesite.com/blog/tallata-haja-intanet/</guid>
+      <description>Kafin zuwan intanet ko kuma lokacin da bai samu karbuwa kamar yanzu ba, akwai abubuwan da dama da ba a samunsu cikin sauƙi.</description>
+    </item>
+    
+  </channel>
+</rss>
