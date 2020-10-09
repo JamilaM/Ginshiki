@@ -3,17 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ginshiki.com/categories/</loc>
-    <lastmod>2020-10-08T07:11:51+01:00</lastmod>
+    <loc>https://ginshiki.com/tags/kiwon-lafiya/</loc>
+    <lastmod>2020-10-09T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ginshiki.com/categories/damarmaki/</loc>
-    <lastmod>2020-10-08T07:11:51+01:00</lastmod>
+    <loc>https://ginshiki.com/categories/</loc>
+    <lastmod>2020-10-09T12:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ginshiki.com/</loc>
+    <lastmod>2020-10-09T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ginshiki.com/categories/kiwon-lafiya/</loc>
+    <lastmod>2020-10-09T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ginshiki.com/post/</loc>
+    <lastmod>2020-10-09T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ginshiki.com/tags/</loc>
+    <lastmod>2020-10-09T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ginshiki.com/tags/uwar-jiki/</loc>
+    <lastmod>2020-10-09T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ginshiki.com/post/yadda-za-ku-iya-tallata-hajarku-cikin-sauki-ta-shafukan-sada-zumunta-copy/</loc>
+    <lastmod>2020-10-09T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ginshiki.com/categories/damarmaki/</loc>
     <lastmod>2020-10-08T07:11:51+01:00</lastmod>
   </url>
   
@@ -23,12 +53,7 @@
   </url>
   
   <url>
-    <loc>https://ginshiki.com/shafukan-guraben-aiki/</loc>
-    <lastmod>2020-10-08T07:11:51+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ginshiki.com/tags/</loc>
+    <loc>https://ginshiki.com/post/shafukan-guraben-aiki/</loc>
     <lastmod>2020-10-08T07:11:51+01:00</lastmod>
   </url>
   
@@ -58,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://ginshiki.com/sayo-kaya-daga-china/</loc>
+    <loc>https://ginshiki.com/post/sayo-kaya-daga-china/</loc>
     <lastmod>2020-10-08T06:29:45+01:00</lastmod>
   </url>
   
@@ -73,7 +98,7 @@
   </url>
   
   <url>
-    <loc>https://ginshiki.com/ilimin-ya-mace/</loc>
+    <loc>https://ginshiki.com/post/ilimin-ya-mace/</loc>
     <lastmod>2020-10-08T06:21:05+01:00</lastmod>
   </url>
   
@@ -98,12 +123,17 @@
   </url>
   
   <url>
-    <loc>https://ginshiki.com/tallata-haja-intanet/</loc>
+    <loc>https://ginshiki.com/post/tallata-haja-intanet/</loc>
     <lastmod>2020-10-07T12:01:36+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ginshiki.com/game-da-mu/</loc>
+    <loc>https://ginshiki.com/pages/game-da-mu/</loc>
+    <lastmod>2020-10-05T15:47:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ginshiki.com/pages/</loc>
     <lastmod>2020-10-05T15:47:55+01:00</lastmod>
   </url>
   
