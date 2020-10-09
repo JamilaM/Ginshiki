@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "ginshiki.com"
+baseURL = "https://ginshiki.com/"
 languageCode = "en-us"
 title = "Ginshikin Rayuwa"
 theme = "liva-hugo"
