@@ -3,7 +3,6 @@ Author = "Muhammad Sabi'u"
 categories = ["Kiwon lafiya"]
 date = 2020-10-09T12:00:00Z
 description = "alamomin cutar daji"
-draft = true
 image = "https://res.cloudinary.com/ginshiki/image/upload/v1602258128/cancercellsd_wt5fnb.jpg"
 tags = ["uwar jiki", " kiwon lafiya"]
 title = "Wasu Alamomin Cutar Daji Da Mutane Ba Sa Ankara Da Su"
