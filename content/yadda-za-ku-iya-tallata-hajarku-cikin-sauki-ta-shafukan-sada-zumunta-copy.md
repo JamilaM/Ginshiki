@@ -1,60 +1,47 @@
 +++
 Author = "Muhammad Sabi'u"
-categories = ["Kimiyya da fasaha", "Sanaa"]
-date = 2020-10-07T11:01:36Z
-description = "tallata haja ta intanet"
+categories = ["Kiwon lafiya"]
+date = 2020-10-09T12:00:00Z
+description = "alamomin cutar daji"
 draft = true
-image = "https://images.unsplash.com/photo-1594670297948-e910d5964979?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=719&q=80"
-tags = ["intanet", "yanar gizo", "tallata haja"]
-title = "Yadda Za Ku Iya Tallata Hajarku Cikin Sauki ta Shafukan Sada Zumunta-(copy)"
+image = "https://res.cloudinary.com/ginshiki/image/upload/v1602258128/cancercellsd_wt5fnb.jpg"
+tags = ["uwar jiki", " kiwon lafiya"]
+title = "Wasu Alamomin Cutar Daji Da Mutane Ba Sa Ankara Da Su"
 type = "featured"
 
 +++
-Kafin zuwan intanet ko kuma lokacin da bai samu karbuwa kamar yanzu ba, akwai abubuwan da dama da ba a samunsu cikin sauƙi. Ko saƙo mutum zai tura, sai ya yi amfani da wasu hanyoyin da babu sauƙi  a tattare da su.
+Da farko, mece ce kansa (wato cutar daji)? Kansa wata mummunar cuta ce wacce ke sanya ƙwayoyin halittar mutum su ringa girma ta mumunar hanyar da hakan zai ci gaba da yaɗuwa daga wani sashe na jiki zuwa wani.
 
-Baya ga haka, abu ne sananne cewa ita harƙar kasuwanci, wata harƙa ce da ke buƙatar tallace-tallace ta hanyar bayyana wa mutane irin nau'in kayan da kake sayarwa ko farashinsa ko kuma ingancinsa, wanda hakan yana buƙatar sai mutum ya yunƙura wajen sanarwa tare da janyo hankalin jama'a ta kafofi iri-iri.
+Masana sun yi ƙididdigar cewa zuwa shekarar 2015, cutar ta yi sanadiyyar mutuwar a ƙalla mutane miliyan takwas a duniya. Baya ga haka, ire-iren cutar daji da ɗan'adam ke iya kamuwa da su sun kasu zuwa kashi ɗari ɗaya.
 
-A da, kafin bayyanar kafofin sada zumunta na zamani—irin su Facebook da sauransu—mutane kan yi tallace-tallacen abubuwan da suke sayarwa ko kuma hajojin kasuwancinsu ne ta gidajen rediyo ko talabijin ko kuma jarida, wanda hakan yana tattare da wasu ƴan matsaloli ganin cewa ba kowa ba ne ke mallakar waɗannan abubuwa. 
+Sau da dama za ka samu wani baƙon abu ko ciwo ya bayyana a jikinmu amma sai mu yi banza da shi, mu yi kamar ba a jikinmu ba ne. A wasu lokutan, wannan baƙon abin da ya bayyana yakan kasance ba mai cutarwa ba ne matuƙa. Amma a wasu lokutan za ka samu abu ne da ya kamata a masa tsayin-daka har sai an gano sababin bayyanarsa da kuma irin abin da zai iya haifarwa nan gaba saboda guje wa faɗawa cikin wata babbar matsala da ba a san ƙarshenta ba. A saboda haka, ya kamata mutum ya yi tunani kafin ya yi kunnen-uwar-shegu ga duk wani abu baƙo da ya bayyana masa a sassan jiki wanda zai iya zama barazana ga lafiyarsa.
 
-Sannan yin hakan yana da buƙatar sai mutum ya biya kuɗi a gidan rediyo, jarida ko talabijin ɗin da yake so a yi masa tallan. Wato ke nan hakan ba zai zo da daɗi wa ƙananan ƴan kasuwa da karfinsu bai taka kara ba balle ya karya, tunda ba zai zama lalle suna da ƙarfin zuwa su biya wancan kuɗi ba.
+Ga wasu daga cikin alamomin cutar daji, waɗanda cikin rashin sani, ba ma ɗaukarsu da muhimmanci:
 
-Bayan bayyanar intanet, hakan sai ya tilasta wa su waɗannan ƙananan ƴan kasuwa farauto wasu hanyoyi masu sauƙi wajen tallata kasuwancinsu ga jama'a, inda ba za’a caje su maƙudan kuɗi ba. Haka zalika ta yadda tallan su zai isa ga dumbim mutane, har da wadanda ba a gari daya suke ba. Kawai abin da za su ji da shi shi ne, kuɗin data. Kuɗin data kuma ba abu ne mai damarwa ba tun da ko mutum ba ya kasuwanci, zai iya saya kawai saboda ya riƙa hawa intanet domin ganin me duniya take ciki.
+### 1. Ƙaiƙayin wuya:
 
+Idan mutum yana fama da ƙaiƙayin wuya sannan ƙaiƙayin ya wuce kima—wato bai saba yin irin wannan jimawar ba, to akwai yiwuwar alama ce ta cutar kansar maƙogoro. Amma a wasu lokutan mutum yakan yi fama da wannan ƙaiƙayi idan yana cikin yanayi na mura da tari. Don haka, yana da kyau a iya bambancewa tsakaninsu saboda kar ya kasance ƙaiƙayi mai hatsari ne.
 
-**_Kusan duka shafukan sada zumunta da ake da su a yau na bada damar a yi talla, amma akwai wadanda zan maida hankali a kai:_**
+### 2. Ramewa
 
-Na daya akwai kafar Facebook wanda ke matuƙar taimaka wa mutane a nan Najeriya da ma sauran ƙasashe wajen tallata hajarsu ga mutanen da suke abota da su. Masu sayar da kayayyaki irin su takalma, zannuwa, huluna, shadda, atamfofi, agogwanni da kayan maƙulashe kullum a ciki talla suke. Kuma babu shakka hakan yana matuƙar taimakawa domin duk wanda yake tare da irin su a kafofin sadarwar, zai tabbata haka.
+Wasu mutanen, idan suna ramewa, gani suke yi kamar wani alheri ne ya same su musamman idan suna da matuƙar ƙiba. To sai dai a wasu lokutan idan mutun ya ga yana matsananciyar rama, akwai yiwuwar alama ce ta cutar dajin huhu ko na ciki ne ke lallaɓo masa alhalin shi bai sani ba.
 
-A wani mataki da ba zai rasa nasaba da yadda Facebook ke son taimakawa ‘yan kasuwa ba, kafar ta ƙirƙiro wani tsari a cikin Facebook ɗin wanda mutum zai iya amfani da shi wajen nuna wa jama'a cewa yana da kayan sayarwa.
+### 3. Jin zafi yayin haɗiya
 
-Da zarar mai son kayan ya gani, to zai yi magana wa mai kayan domin su yi ciniki sannan a san yadda za a yi a kai masa kayan a duk inda yake idan ciniki ya faɗa. Wata shawara a nan ita ce, duk lokacin da ake cinikin, shi mai kayan zai riƙa yi yana la'akari da kuɗin aikawa ta mota saboda wasu lokutan tsakanin mai saya da mai sayarwa akwai rata mai tsaho da sai an biya kuɗin mota kafin a kai masa.
+A wasu wuraren, akwai mutane waɗanda da ƙyar suke iya haɗiye abinci ko abin sha kafin ya tafi cikinsu saboda irin tsananin rashin jin daɗi da suke fuskanta a cikin maƙogoronsu lokacin da suke haɗiya. Saboda haka, duk lokacin da mutum yake fuskantar irin wannan barazanar, akwai buƙatar ya je ya ga likita saboda a samo bakin zaren tun kafin abu ya yi nisa.
 
-**_A gaskiya, tallata haja ta Facebook na da alfanu sosai:_~**
+### 4. Zubar jini haka kawai
 
-* Na farko, zai rage wa mutum nauyin biyan masu gidan rediyo ko talabijin kuɗin talla
+Yana da muhimmanci mutane su san lokacin da jini zai zuba a jikinsu da kuma lokacin da bai kamata ya zuba ba. A wasu lokutan za ka ga mutum da zarar ya yi tari, sai ka ga jini. To a irin wannan yanayin, ya dace mutum ya gaggauta zuwa wajen likita saboda wannan alama ce ta cutar dajin huhu.
 
-* Na biyu, mutum ba sai ya tashi yana zagayawa lungu-lungu, saƙo-saƙo yana tallata kayansa ba. Sannan kuma ba dole sai ya biya Facebook kuɗi ba kafin ya iya tallata hajarsa
+### 5. Mummunan canjin yanayin fatar jiki
 
-* Mutum zai iya tallata hajarsa ga dumbin mutane daga kowane lungu da sako na kasar, wanda haka zai fadada kasuwar shi.
- 
-A sauran kafofi irin su Instagram, WhatsApp, Twitter da LinkedIn ma, haka abin yake. Sannan kuma shi wannan talln ba ya buƙatar sai mutum yana da karatu mai zurfi. 
+A duk lokacin da mutum ya ga fatarsa tana samun mummunan canjin yanayi, to yana buƙatar garzayawa asibiti saboda wataƙila cutar kansar fata ce take son yi masa ba-zata
 
-**_Bugu da ƙari, ga wasu hanyoyi da mutum zai bi wajen taimaka wa kasuwancinsa ya sami karɓuwa a kafafen sada zumunta:_**
+### 6. Matsanancin tari ko disashewar murya na babu gaira babu dalili 
 
-1. Akwai buƙatar duk abinka da kake son sayarwa, ka sanya hotonsa domin jama'a su gan shi
+Tari da disashewar murya alamu ne na mura. Sannan kuma akwai adadin lokacin da ya kamata a ce sun rabu da mutum. Ke nan idan suka wuce kima, ya kamata a garzaya asibiti don gano me yake faruwa.
 
-2. Ka yi ƙoƙari wajen tabbatar da cewa kayanka mai inganci ne yadda duk wanda ya yi amfani da shi zai yaba, ya kuma ji daɗin amfani da shi
+Daga ƙarshe, idan dai haka abin yake, to ya dace kowa ya riƙa matuƙar lura da al'amuran da suka shafi lafiyar jikinsa ta yadda zai riƙa shawo kan matsala da wuri tun kafin ta ta'azzara. Baya ga haka duk wanda ya taɓa ganin mutumin da wannan cuta ta yi wa illa, gaskiya zai tausaya masa saboda irin yadda take sauya halittar jikin mutum.
 
-3. Yana da kyau ka ambaci sunan wani kwastomanka da ya taɓa amfani da kayanka domin ya shaida wa jama'a ingancin kayanka ta hanyar bayyana yadda abin yake
-
-4. Idan Facebook kake yi, ka buɗe shafin kasuwanci (page), sannan ka janyo abokanka don su yi maka "laikin" (liking) su kuma "yada" (sharing) saboda faɗaɗa adadin mutanen da za su ga hajarka
-
-5. Idan akwai buƙata, ka buɗe shafi a Twitter ka riƙa tallata hajarka a can domin a Twitter ma akwai ɗumbin jama'a da za ka iya samun karɓuwa a wajensu
-
-6. Sannan za ka iya amfani da "sitetus" ɗinka na WhatsApp wajen nuna wa mutanen da kake da lambarsu irin kayayyakin da kake sayarwa
-
-7. Idan mutum ya sayi kaya a wajenka, kar ka yi wasa wajen sakawa a mota ka tura masa kayansa
-
-8. Ga masu tallata kayan maƙulashe, yana da kyau a tabbatar da cewa abin yana ƙayaratwa sosai yadda idan mutum ya saya yau, gobe ma sai ya ƙara nema
-
-Daga ƙarshe, yana da kyau ka janyo mutanen da ba sa amfani da kafafen sada zumunta su ma su ɗauki wannan salon domin samun ci gaba. Ko da mutum ba shi da sha'awar yin hakan, to ya ƙarfafa wa wasu gwiwa.
+Kar a manta, "lafiya uwar jiki ce: babu mai fushi da ita."
