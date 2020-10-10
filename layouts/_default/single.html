@@ -16,11 +16,17 @@
           <span>{{ .PublishDate.Format "02 January 2006" }}</span>
           {{ end }}
         </div>
+        <div class = "my-2">
+          {{ partial "share-buttons.html" . }}
+        </div>
         {{ if .Params.image }}
         <img src="{{ .Params.Image | absURL }}" class="img-fluid w-100 mb-4 rounded" alt="{{ .Title | markdownify }}">
         {{ end }}
         <div class="content mb-5">
           {{ .Content }}
+        </div>
+        <div class = "my-4">
+          {{ partial "share-buttons.html" . }}
         </div>
 
         <!-- comments -->

@@ -119,7 +119,7 @@ copyright = "| Mallakin &copy; 2020 [klymb Digital Media](https://klymbdigital.c
 
 ############################ news letter ########################
 [params.newsletter]
-enable = true
+enable = false
 title = "Shiga Tsarin Samun Sakonnin Mu"
 content = "Sanya adireshi na imel domin samun sanarwa a duk lokacin da muka wallafa sabon abu"
 
@@ -127,17 +127,17 @@ content = "Sanya adireshi na imel domin samun sanarwa a duk lokacin da muka wall
 [[params.social]]
 title = "facebook"
 icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://facebook.com/ginshiki"
 
 [[params.social]]
 title = "twitter"
 icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://twitter.com/ginshiki"
 
 [[params.social]]
 title = "instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://instagram.com/ginshiki"
 
 
 
