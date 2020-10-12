@@ -12,8 +12,7 @@ description: "Sayo kaya daga China zuwa Nigeria"
 
 # taxonomies
 categories:
-  - "Damarmaki"
-  - "Kimiyya da fasaha"
+  - Kimiyya da fasaha
 tags:
   - "kasuwanci"
   - "kimiyya"

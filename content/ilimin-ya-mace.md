@@ -12,6 +12,7 @@ description: "Muhimmancin ilmin 'ya mace ga al'umma"
 
 # taxonomies
 categories:
+  - Damarmaki
   - Iyali
 tags:
   - ilimi

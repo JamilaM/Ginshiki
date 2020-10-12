@@ -20,7 +20,7 @@ tags:
   - "tallata haja"
 
 # post type
-type: "featured"
+type: "post"
 ---
 
 Kafin zuwan intanet ko kuma lokacin da bai samu karbuwa kamar yanzu ba, akwai abubuwan da dama da ba a samunsu cikin sauƙi. Ko saƙo mutum zai tura, sai ya yi amfani da wasu hanyoyin da babu sauƙi  a tattare da su.

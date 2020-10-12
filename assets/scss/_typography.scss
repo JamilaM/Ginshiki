@@ -19,17 +19,17 @@ p, .paragraph {
 
 
 .widget p, .widget ul li a {
-  color: $white;
+  color: $black;
   border-radius: 5px;
 }
 
 .widget-title {
-  color: $white;
+  color: $black;
 }
 
 .widget .btn-outline-primary{
-  color: $white;
-  border: 1px solid $white;
+  color: $black;
+  border: 1px solid $primary-color;
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -67,9 +67,9 @@ h5, .h5{
 }
 
 h6, .h6{
-  font-size: 22px;
+  font-size: 20px;
 }
 
 hr {
-  background-color: $gray;
+  background-color: $primary-color;
 }

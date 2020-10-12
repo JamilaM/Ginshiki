@@ -5,7 +5,7 @@ title = "Ginshikin Rayuwa"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
-disqusShortname = "ginshiki"
+disqusShortname = ""
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]

@@ -111,8 +111,8 @@
 
 /* recent post */
 .recent-post-thumb {
-  height: 100px;
-  width: 100px;
+  height: 80px;
+  width: 80px;
   border-radius: 50%;
   background-position: center center;
   background-size: cover;
@@ -164,7 +164,7 @@
       height: 35px;
       width: 35px;
       background: $primary-color;
-      color: $white;
+      color: $text-color;
       display: block;
       line-height: 35px;
 
@@ -330,5 +330,6 @@
   }
 
 }
+
 
 /* /markdown style */

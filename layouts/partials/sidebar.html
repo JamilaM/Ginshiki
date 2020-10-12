@@ -1,4 +1,12 @@
-<div class="col-lg-3 rounded pt-5 ml-lg-5" style = "background-color: #376e6f;">
+<div class="col-lg-3 rounded pt-5 ml-lg-5" style = "border: 1px solid #da7b93;">
+
+  <!-- search -->
+  <div class = "widget">
+    <h4 class="widget-title">Binciki Shafin</h4>
+    <form class="form-inline my-3 justify-content-center">
+      <input class="form-control rounded" type="search" placeholder="Kalmar bincike" aria-label="Search">
+      </form>
+  </div>
   <!-- about -->
   <div class="widget">
     {{ with .Site.GetPage "/game-da-mu" }}
@@ -47,6 +55,6 @@
   </div>
   <!-- advertisement -->
  <div style="width: 250px" class="widget">
-    <img src="{{`images/arewaa.png` | absURL}}" alt="" class="img-fluid">
+    <img src="{{`#` | absURL}}" alt="" class="img-fluid">
   </div>
 </div>

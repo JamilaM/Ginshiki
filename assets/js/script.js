@@ -17,16 +17,16 @@
     // featured post slider
     
      $('.featured-post-slider').slick({
+      dots: true,
       infinite: true,
-      vertical: true,
-      autoplay: true,
-      slidesToScroll: 3,
+      speed: 300,
       slidesToShow: 1,
+      vertical: true,
+      arrows: false,
+      verticalSwiping: true,
+      autoplay: true,
       cssEase: 'ease',
       autoplaySpeed: 3000,
-      verticalSwiping: true,
-      arrows: false,
-      dots: true,
       responsive: [{
         breakpoint: 600,
         settings: {

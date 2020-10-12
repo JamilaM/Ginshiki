@@ -6,7 +6,7 @@ description = "alamomin cutar daji"
 image = "https://res.cloudinary.com/ginshiki/image/upload/v1602258128/cancercellsd_wt5fnb.jpg"
 tags = ["uwar jiki", " kiwon lafiya"]
 title = "Wasu Alamomin Cutar Daji Da Mutane Ba Sa Ankara Da Su"
-type = "featured"
+type = "post"
 
 +++
 Da farko, mece ce kansa (wato cutar daji)? Kansa wata mummunar cuta ce wacce ke sanya ƙwayoyin halittar mutum su ringa girma ta mumunar hanyar da hakan zai ci gaba da yaɗuwa daga wani sashe na jiki zuwa wani.

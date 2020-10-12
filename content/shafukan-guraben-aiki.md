@@ -12,14 +12,14 @@ description: "Shafukan neman aiki na yanar gizo"
 
 # taxonomies
 categories:
-  - "Damarmaki"
+  - Damarmaki
 tags:
   - "neman aiki"
   - "yanar gizo"
   -
 
 # post type
-type: "featured"
+type: "post"
 
 ---
 Ina masu neman aiki? Akwai shafukan yanar gizo da dama a Nijeriya inda ake sanya sabbin guraben aiki, kama daga na gwamnati zuwa na kamfanoni har da ma na kungiyoyi masu zaman kansu. A irin wadannan shafuka, mutum zai iya ganin ayyukan da guraben su ke bude kuma ya iya nema. 
