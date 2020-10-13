@@ -22,27 +22,38 @@
         <div class="content mb-5">
           {{ .Content }}
         </div>
-        <div class = "my-4">
+        <div class = "my-5">
+          <h6>Watsa wannan makala ga 'yanuwa da abokan arziki</h6>
           {{ partial "share-buttons.html" . }}
         </div>
 
+         <!--related post-->
+         <div class=" my-5">
+          {{ $related := .Site.RegularPages.Related . | first 5 }}
+          {{ with $related }}
+         <h5 class="my-4">Wasu Makamantan Wannan</h5>
+         <div>
+          {{ range . }}
+          <article class="media">
+            {{ if .Params.Image }}
+            <div class="recent-post-thumb mr-3" style="background-image: url('{{ .Params.Image | absURL }}'); width: 60px; height: 60px; border-radius: 10%"></div>
+            {{ end }}
+            <div class="media-body">
+              <a href="{{ .RelPermalink }}" class="h6 d-block my-2" style="font-weight: 400; font-size: 18px">{{ .Title | markdownify }}</a>
+            </div>
+          </article>
+          {{end}}
+        </div>
+          {{ end }}
+        </div>
+
         <!-- comments -->
-        <div style= "border: 1px solid #da7b93; border-radius: 10px; padding: 15px">
+        <div class="my-5" style= "border: 1px solid #da7b93; border-radius: 10px; padding: 15px">
           <h4>Yi Tsokaci</h4>
           <div class="fb-comments" data-href="https://ginshiki.com" data-numposts="3" data-width="700"></div>
        </div>
        
-          <!--related post-->
-          {{ $related := .Site.RegularPages.Related . | first 5 }}
-          {{ with $related }}
-         <h5>Wasu Makamantan Wannan</h5>
-         <div>
-          {{ range . }}
-          <a href="{{ .RelPermalink }}" class="h6 d-block mb-5">{{ .Title | markdownify }}</a>
-          {{ end }}
-        </div>
-          {{ end }}
-  
+         
       </div>
     </div>
   </div>

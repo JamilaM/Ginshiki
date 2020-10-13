@@ -12,7 +12,7 @@ description: "Sayo kaya daga China zuwa Nigeria"
 
 # taxonomies
 categories:
-  - Kimiyya da fasaha
+  - Sanaa
 tags:
   - "kasuwanci"
   - "kimiyya"

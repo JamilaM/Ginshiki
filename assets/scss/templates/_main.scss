@@ -64,12 +64,9 @@
     @media screen and (max-width: 599px) {
       .slick-dots {
         position: absolute;
-        height: 5px;
-        width: 100%;
-        right: 0;
-        bottom: -40px;
-        display: flex;
-        padding: 0;
+        height: 10px;
+        width: 30%;
+        right: 40%;
 
         li {
           flex: 1 1 auto;
@@ -139,7 +136,6 @@
 
   &-title {
     display: inline-block;
-    border-top: .5px solid $primary-color;
     border-bottom: .5px solid $primary-color;
     padding: 10px 0;
     margin-bottom: 20px;

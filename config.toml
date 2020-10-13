@@ -119,7 +119,7 @@ copyright = "| Mallakin &copy; 2020 [klymb Digital Media](https://klymbdigital.c
 
 ############################ news letter ########################
 [params.newsletter]
-enable = true
+enable = false
 title = "Shiga Tsarin Samun Sakonnin Mu"
 content = "Sanya adireshi na imel domin samun sanarwa a duk lokacin da muka wallafa sabon abu"
 

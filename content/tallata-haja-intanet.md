@@ -12,7 +12,7 @@ description: "tallata haja ta intanet"
 
 # taxonomies
 categories:
-  - Kimiyya da fasaha
+  - Kimiyya da fasaha |
   - Sanaa
 tags:
   - "intanet"
