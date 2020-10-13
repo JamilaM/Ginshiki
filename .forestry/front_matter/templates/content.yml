@@ -44,5 +44,10 @@ fields:
   config:
     required: false
   label: Type
+- name: feature_image
+  type: file
+  config:
+    maxSize: 64
+  label: Feature image
 pages:
 - content/sana-o-i-5-da-basu-bukatar-kakkauran-jari-kashi-na-1.md
