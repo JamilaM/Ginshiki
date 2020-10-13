@@ -1,5 +1,5 @@
 ---
-title: "Shafukan yanar gizo na 10 da ake sanya sabbin guraben aiki a Nijeriya"
+title: "Shafukan yanar gizo guda 10 da ake sanya sabbin guraben aiki a Nijeriya"
 date: 2020-10-08T07:11:51+01:00
 draft: false
 Author: "Jamila M"

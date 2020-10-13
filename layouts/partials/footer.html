@@ -23,7 +23,7 @@
 <footer>
   <div class="container">
     <div class="row">
-      <div class="col-12 text-center mb-3">
+      <div class="col-12 text-center mb-2">
         <a href="{{ .Site.BaseURL }}"><img src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}"></a>
       </div>
       <div class="col-lg-4 col-sm-6">
@@ -37,7 +37,7 @@
           </div>
           </div>
       </div>
-      <div class="col-lg-2 col-sm-6 mb-3">
+      <div class="col-lg-2 col-sm-6 mb-2">
         <div class="widget">
           <h6 class="widget-title">Rukunoni</h6>
           {{- if isset .Site.Taxonomies "categories" }}
@@ -54,7 +54,7 @@
         </div>
       </div>
 
-      <div class="col-lg-3 col-sm-6 mb-3">
+      <div class="col-lg-3 col-sm-6 mb-2">
         <div class="widget">
           <h6 class="widget-title">Shafukan amfani</h6>
           <ul class="list-unstyled">
@@ -67,7 +67,7 @@
       </div>
 
       
-      <div class="col-lg-3 col-sm-6 mb-3">
+      <div class="col-lg-3 col-sm-6 mb-2">
         <div class="widget">
           <h6 class="widget-title">Shafukan Zumunta</h6>
           <ul class="list-inline social-links">
@@ -80,11 +80,6 @@
       
       
       <div class="col-12 border-top py-4 text-center">
-        <ul class="list-unstyled d-lg-flex d-none justify-content-center">
-          {{ range .Site.Menus.footer }}
-          <li class="m-3"><a class="text-dark" href="{{ .URL | absURL }}">{{ .Name }}</a></li>
-          {{ end }}
-        </ul>
         {{ .Site.Params.copyright | markdownify }}
       </div>
     </div>
