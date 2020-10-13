@@ -1,9 +1,9 @@
 +++
-author = "Muhammad Sabi'u"
+Author = "Muhammad Sabi'u"
 categories = ["Kiwon lafiya", "iyali"]
 date = 2020-10-13T17:00:00Z
 description = "Yadda mai juna biyu zata kula da lafiyarta"
-feature_image = "/v1602606655/pregnant-belly_qqzex4.jpg"
+image = "https://res.cloudinary.com/ginshiki/image/upload/v1602606655/pregnant-belly_qqzex4.jpg"
 tags = ["kiwon lafiya", "iyali"]
 title = "Yadda mai Juna Biyu za ta Kula da Lafiyarta da Jaririn da ke Cikinta"
 type = "post"

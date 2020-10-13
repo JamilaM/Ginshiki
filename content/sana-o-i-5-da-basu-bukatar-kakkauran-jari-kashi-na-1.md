@@ -1,9 +1,9 @@
 +++
-author = "Muhammad Sabi'u"
+Author = "Muhammad Sabi'u"
 categories = ["Sanaa"]
 date = 2020-10-13T16:00:00Z
 description = "Sana'o'in da mutum zai iya yi da karamin jari"
-feature_image = "/v1602605461/eggs_admirz.jpg"
+image = "https://res.cloudinary.com/ginshiki/image/upload/v1602605461/eggs_admirz.jpg"
 tags = ["sanaa"]
 title = "Sana’o’i 5 Da Basu Bukatar Kakkauran Jari – Kashi na 1"
 type = "post"
