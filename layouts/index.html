@@ -41,8 +41,8 @@
 <!-- recent post -->
 <section>
   <div class="container">
-    <div class="row mb-5">
-      <div class="col-lg-4 small-post-border mb-5 mb-lg-1">
+    <div class="row mb-2">
+      <div class="col-lg-4 small-post-border mb-2 mb-lg-1">
         <h3 class = "CategoryHead">Damarmaki</h4>
         <hr>
         {{ range first 3 .Site.Taxonomies.categories.damarmaki }}
@@ -64,7 +64,7 @@
         {{ end }}
       </div>
 
-      <div class="col-lg-4 small-post-border mb-5 mb-lg-1">
+      <div class="col-lg-4 small-post-border mb-2 mb-lg-1">
         <h3 class = "CategoryHead"> Sana'a</h4>
         <hr>
         {{ range first 3 .Site.Taxonomies.categories.sanaa }}
@@ -86,7 +86,7 @@
         {{ end }}
       </div>
 
-      <div class="col-lg-4 small-post-border mb-5 mb-lg-1">
+      <div class="col-lg-4 small-post-border mb-2 mb-lg-1">
         <h3 class = "CategoryHead">Iyali</h4>
         <hr>
         {{ range first 3 .Site.Taxonomies.categories.iyali }}
@@ -150,7 +150,7 @@
 
       <!-- pagination -->
      
-      <div class="col-12 mt-5">
+      <div class="col-12 mt-5 mb-5">
         {{ template "_internal/pagination.html" . }}
       </div>
     
