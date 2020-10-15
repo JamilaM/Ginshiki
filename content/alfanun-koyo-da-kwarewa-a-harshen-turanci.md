@@ -3,7 +3,6 @@ Author = "Muhammad Sabi'u"
 categories = ["Damarmaki"]
 date = 2020-10-15T07:00:00Z
 description = "Muhimmancin koyon turanci"
-draft = true
 image = "/v1602743721/english-language_hlt9v5.jpg"
 tags = ["harshen turanci", "koyon turanci"]
 title = "Alfanun Koyo da Kwarewa a Harshen Turanci"
