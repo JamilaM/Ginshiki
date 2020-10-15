@@ -1,64 +1,51 @@
 +++
-Author = "Jamila M"
+Author = "Muhammad Sabi'u"
 categories = ["Sanaa"]
-date = 2020-10-08T05:29:45Z
-description = "Sayo kaya daga China zuwa Nigeria"
-draft = true
-image = "https://techeology.com/wp-content/uploads/sites/2/2019/05/Best-Tech-Gifts-Under-20.png"
-tags = ["kasuwanci", "kimiyya", "Intanet"]
-title = "Yadda Za ka iya Fara sayo kaya daga China da dan karamin jari – Kashi na 1-(copy)"
+date = 2020-10-15T05:29:45Z
+description = "Sana'o'in Da Ba Sa Buƙatar Jari Kakkaura"
+image = "https://i2.wp.com/zestmade.com/blog/wp-content/uploads/2019/03/mobile-phone-repair.jpg?fit=640%2C426&ssl=1"
+tags = ["kasuwanci", "sana'a", " dogaro da kai"]
+title = "Sana'o'in Da Ba Sa Buƙatar Jari Kakkaura - Kashi na biyu"
 type = "post"
 
 +++
-Ina daga cikin kananan ‘yan kasuwa a Nijeriya da ke sayo kaya daga kasar China a kawo min su har gida. Ina daga cikin daki nake odar kayan ta wayar hannu. Ina daga cikin daki nake biyan kudin kayan. Me yafi haka sauki? 
 
-Kowa yasan yadda kaya suke da matukar araha a kasar China, kuma da inganci. Yawanci kayan wuta da kayan dankunnaye da abubuwa da dama da muke saya a kasuwannin Nijeriya a kasar China aka yi su.  Abu daya kadai ke hana mutane sayen su, nisa da rashin kudin jirgi da rashin jari masu tsoka.
+A yau za mu ci gaba da kawo muku sana'o'in da mutum zai iya fara aiwatar da su ba tare da wasu maƙudan kuɗaɗe ba. A baya mun kawo muku guda huɗu daga ciki. Yau kuma za mu tashi a kan na biyar.
 
-Amma yanzu saboda kasancewar akwai yanar gizo, ci gaba ya samu. Allah ya kawo mu wani lokaci da baka bukatar wadannan abubuwa kafin ka iya fara sana’ar ka cikin sauki kuma da dan karamin jari.
-In baku misali, na fara sana’ar sayo kaya daga kasar China ne tun ina daliba a jami’a, kimanin shekaru bakwai kenan da suka gabata. A lokacin da Naira dubu 20 kacal na fara kuma ko a yanzu, kudin da mutum ke bukata na farawa bai taka kara ya karya ba, musamman idan kananan abubuwa mutum zai saya kamar dankunnaye.
+#### 5. Sayar da kayan waya
 
-Akwai kafofi da dama a shafukan yanar gizo da ‘yan kasuwa a kasar China ke sayar da hajar su ga sauran mutanen duniya. Wadanda aka fi sani a Nijeriya guda biyu ne. Alibaba da Aliexpress.
+A wannan lokaci da duniya take juyawa ta ɓangaren da kusan komai ana aiwatar da shi ne ya hanyar amfani da wayar hannu ko kwamfiyuta, a Najeriya ma akwai irin wannan sauyin. A halin yanzu adadin ƴan Najeriya ya fi miliyan 180. 
 
-Shi Alibaba ya fi dacewa da masu karfin jari da ke son sayen kaya da yawa, wato diloli kenan, a don haka ba za mu yi magana a kan shi ba a wannan makala.
+A cikin mutane sama da miliyan ɗari da tamanin ɗin nan, akwai yiwuwar sama da miliyan 160 kan yi amfani da wayar hannu, a cewar wani bincike da aka yi.
 
-Za mu maida hankali ne akan [Aliexpress](aliexpress.com) saboda shi ko abu guda daya kacal mutum ke son saya, zai iya.
+Ke nan wannan ya tilasta wa mutane buƙatuwa zuwa ga kayan waya kamar su batiri, caja, kyas, jakar waya, katin memori, layin waya da sauransu.
 
-### Game da Aliexpress
+Ita wannan sana'ar, idan mutum ba shi da kuɗin kama hayar shago ma, zai iya ɗaukar akwati ko kwando yana yawo da shi. A haka ne zai saba da mutane har ya san me suke buƙata na irin waɗannan kayayyakin. 
 
-Shi aliexpress shafi ne mallakin kamfani _Alibaba Group_ wanda shine mafi girman kamfanin yanar gizo a kasar China. A wannan shafi, ‘yan kasuwa da kamfanoni yawancinsu ‘yan kasar China na sanya hajar su, ta yadda mutane a ko’ina a fadin duniya za su iya saye su kuma aika masu. An bude kafar ne a shekarar 2010 kuma izuwa yanzu akwai miliyoyin kayayyaki a shafin a kowane bangare na rayuwa da mutum zai iya saya.
+Sannan idan ya sami ci gaba, yana iya fara sarin kaya daga manyan diloli a birane kamar su Kano, Legas, Fatakwal da sauransu domin samun kayan a kan farashi mai rahusa.
 
-Kafin na shiga batun yadda mutum zai iya fara sayan kayan, bari na amsa tambayar da ke zuciyar ku. Wai shin ma me yasa mutum zai saya kaya a Aliexpress?
-Akwai dalilai daban daban:
+#### 6. Gyaran waya
 
-* Saukin kaya da adadinsu. Shafin na da sama da kayayyakin sayarwa miliyan 100. A don haka mutum zai zaba ya darje.   
+Tun da mutane da yawa suna riƙe da wayoyin hannu, to kuwa dole sai sun buƙaci mai gyaran waya saboda wata rana wayarsu za ta iya samun matsalar da sai sun zo wajen mai gyara.
 
-* Wayar hannu wacce ke shiga intanet kawai mutum ke bukata da kuma data.
+Abin da mutum zai fara yi shi ne, zai nemi wajen mai gyara domin ya ɗauki tsawon ƴan watanni don koyon gyaran. In dai zai iya haƙuri, to zai iya koya. Bayan mutum ya koya, sai ya nemi matsuguni inda mutane za su gan shi su san shi mai gyaran waya ne. Da zarar ya sanu, to daga nan ne zai fara samun kwastomomi.
 
-* Tsarin kare hakki da kudin mai saye: Ba a sakarwa masu sayarda kayan kudinka har sai ka tabbata ka samu kayanka kuma sun yi maka yadda kake so. 
+Da kuɗinsa kamar _₦50,000_, zai iya fara wannan bayan ya tanadi abubuwa kamar su kwamfiyutar hannu (laptop), saitin sukuddireba, na'urar gwada batiri da sauransu. Daga nan ma idan mutum yana da kuɗi kamar _₦5000_, zai iya yin odar akwatin kayan gyara domin ya kasance yana da isassun kayan gyaran.
 
-Idan ba haka ba, za ka iya bukatar a dawo maka da kudinka. Masu sayar da kaya a wannan shafi har roko suke akan cewa idan kayan basu maka ba, kar ka rubuta wani abu mara kyau game da kayan, za su mayar maka da kudinka. Saboda idan haka ta faru, zai shafi kasuwancinsu.
+#### 7. Shigo da kaya daga ƙasar waje
 
-* Akwai damar ganin ko kayan da kake son saya nada inganci ta hanyar karanta ra’ayoyin wadanda suka sayi abun a baya  da ganin hotunan abunda aka aika masu.
+Intanet ya yi matuƙar sauya hidimar kasuwanci a wannan zamanin. Mutane da yawa suna samun riba ta hanyar shigo da kaya ta hanyar kasuwannin intanet irin su Alibaba, Aliexpress, DHgate da sauransu. Irin wannan kasuwanci ko da naira dubu ɗari mutum zai iya farawa.
 
-* Biyan kudi cikin sauki ba sai mutum ya je banki ba
+Abin da mutum zai fara yi shi ne, ya duba muhimman abubuwan da mutane ke buƙata. Sannan kuma sai ya dudduba kasuwannin intanet ɗin domin samun wakilin da zai sayi kaya ya turo masa—kayayyaki irin su kayan shafe-shafe na mata, kayan waya, wayoyinsu hannu, sutura, takalma masu inganci da sauransu.
 
-* Zaka iya yi wa mai sayar da kayan magana har ma ka nemi ragi idan da yawa zaka saya, kafin ka sayi kayan ko bayan ka sayi kayan
+#### 8. Bayar da haya
 
-Ina fatan wadannan sun amsa wasu daga cikin tambayoyin da kuke da shi a zuciyoyinku
-Yadda mutum zai fara:
+Akwai abubuwa da yawa da mutane ke buƙatarsu amma ba su mallake su ba—misalin waɗannan abubuwan shi ne rumfa, kujerun roba, abubuwan da ake amfani da su wajen girki, kafet, kuranga da sauransu. In dai aka san mutum a kan wannan sana'ar, to zai samu karɓuwa sosai.
 
-Ko kafin mutum yayi rajista a Aliexpress, zai iya shiga shafin ya ga irin kayan da ake da su. Amma idan har kana son sayen kaya ko yiwa mai sayarwa magana ko sanyawa kaya alama domin ka koma gare su nan gaba, dole sai ka yi rajista.
+Sannan akwai buƙatar mutum ya riƙa tallata hajarsa ta hanyar kafofin sada zumunta ko kuma kafofin sadarwa kamar su rediyo, talabijin, jaridu.
 
-### 1.	Yin Rajista
+#### 9. Samarwa tare da sayar da ƙanƙara
 
-Da farko mutum zai garzaya ne shi kanshi shafin ya yi rajista, wanda hakan ba zai ci fiye da mintina biyar ba. Domin yin rajista, mutum na bukatar adireshin imel, lambar sirri, lambar waya, da adireshin da za a aiko kayan. Zama ka iya amfani da shafinka na Facebook ko twitter wajen yin rajista kai tsaye.
+Ganin yadda a nan Najeriya ba a faye samun wutar lantarki a kowane lokaci ba, sannan ganin yadda a nan yankinmu na Saharar Afirka akwai yanayi na zafi, mutane da yawa na buƙatar abu mai sanyi don ya kwantar musu da hankali, musamman lokacin da zafi ya dame su—wanda a cikin kwanaki 365 da muke da su a shekara, ɗari uku daga ciki a zafi ake yinsu.
 
-### 2.	Zaben kayan saya
-
-Da zaran ka yi rajista, zaka iya bincikar abunda ka je nema ta akwatin bincike da ke saman shafin. Ya fi dacewa mutum ya dan yi bincike saboda zaka samu cewa ‘yan kasuwa da yawa na sayarda abu iri daya kuma akan farashi daban daban.
-
-Idan mutum ya ga abunda yake so zai iya sanya masa alama (favourite) ya ci gaba da dubawa ko kuma ya latsa kayan domin samun karin bayani. A shafin kayan, za ka samun bayani akan mafi karancin adadin da zaka iya saya, kalolin da ake da su, kudin aikowa Nijeria da ra’ayoyin mutanen da suka riga suka sayi kayan.
-
-Duba ra’ayyoyin mutane na da matukar muhimmanci domin gudun zaben tumin dare.
-
-Zan dakata a nan. A kashi na biyu za mu duba hanyoyin aiko kaya da ake da su a shafin da wanda ya fi dacewa a yi amfani da shi, hanyoyin biyan kudi, dabarun tabbatar da samun kaya masu kyau a mafi karancin farashi da sauransu.
+Domin yin wannan sana'a, mutum yana buƙatar ingantaccen firiza da kuma tsayayyen janareto domin kauce wa yankewar ƙanƙara ga masu buƙata. Bayan kuɗin da zai kashe wajen sayan janareto da firiza, kuɗi da zai zuba ya fara samar da ƙanƙara ba shi da yawa.
