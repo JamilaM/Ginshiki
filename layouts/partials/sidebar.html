@@ -3,9 +3,9 @@
   <!-- search -->
   <div class = "widget">
     <h4 class="widget-title">Binciki Shafin</h4>
-    <form class="form-inline my-3 justify-content-center">
-      <input class="form-control rounded" type="search" placeholder="Kalmar bincike" aria-label="Search">
-      </form>
+    <form action="{{ .Site.BaseURL }}/search" class="form-inline my-3 justify-content-center">
+      <input class="form-control rounded" id="search-query" name="s" type="search" placeholder="Binciki shafin" aria-label="Search">
+    </form>
   </div>
   <!-- about -->
   <div class="widget">
