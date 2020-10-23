@@ -34,7 +34,7 @@
          <h5 class="my-4">Wasu Makamantan Wannan</h5>
          <div>
           {{ range . }}
-          <article class="media">
+          <article class="media my-4">
             {{ if .Params.Image }}
             <div class="recent-post-thumb mr-3" style="background-image: url('{{ .Params.Image | absURL }}'); width: 60px; height: 60px; border-radius: 10%"></div>
             {{ end }}
