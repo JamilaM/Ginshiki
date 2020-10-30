@@ -45,7 +45,7 @@ E. Block chain
 F. Harƙar kwamfuta mai tunani irin na ɗan'adam (watau artificial intelligence)
 G. Sannan wannan tsari zai koya wa mutane yadda ake kasuwanci cikin hanya ta ilimi da kyawawan tsare-tsare.
 
-##### Waɗannan kaɗan daga ciki ke nan.#####
+##### Waɗannan kaɗan daga ciki ke nan. #####
 
 Babban burin Ma'aikatar Sadarwar Najeriya game da wannan tsari shi ne, tana son samar da ilimi da wayewa tsakanin jama'ar Najeriya wajen ganin cewa sun fahimci abin da fasahar zamani ta zo da ita da kuma taimaka musu wajen dogaro da kai, ba don komai ba sai don za su iya amfani da ilimin da za su samu wajen samun aikin yi.
 
